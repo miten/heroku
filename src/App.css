@@ -2,10 +2,10 @@ body {
   height: 100%;
   width: 100%;
   text-align: center;
-  background-image: url("https://image.noelshack.com/fichiers/2023/10/4/1678397357-bg.jpg");
+  background-image: url("https://image.noelshack.com/fichiers/2023/10/4/1678399937-287276899-152622800657337-5029946118080492577-n.jpg");
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: right top;
+  background-position: center;
 }
 
 .App-logo {
