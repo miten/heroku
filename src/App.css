@@ -1,5 +1,10 @@
-.App {
+body {
+  height: 100%;
   text-align: center;
+  background-image: url("../public/Blinguage/bg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: right top;
 }
 
 .App-logo {
